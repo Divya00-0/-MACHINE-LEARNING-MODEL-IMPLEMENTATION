@@ -15,3 +15,5 @@ MENTOR: NEELA SANTOSH
 Tool:Googla Colab
 
 Output:
+
+[task4output.pdf](https://github.com/user-attachments/files/20431218/task4output.pdf)
